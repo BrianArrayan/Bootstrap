@@ -99,6 +99,7 @@ html{
     border: 3px solid #52DFDA;
     margin: 0px 0px 0px 25%;
     grid-area: perfil-foto;
+    margin-left: 3%;
 }
 .sobre-mi{
     color: white;
@@ -106,12 +107,11 @@ html{
     font-family: 'Lato', sans-serif;
     font-weight: 400 regular;
     grid-area: sobre-mi;
-    width: 50%;
-    margin: 0px 0px 0px 0%;
+    width: 80%;
+    margin: 0px 0px 0px -15%;
 }
 .contacto-redes{
-    margin: 0px 17% 0px 0%;
-    
+    margin: 0px 9% 0px -15%;
 }
 .contacto-redes img{
     grid-area: contacto-redes;
